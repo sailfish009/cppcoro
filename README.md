@@ -1,6 +1,6 @@
 # CppCoro - A coroutine library for C++
 
-The 'cppcoro' library provides a set of general-purpose primitives for making use of the coroutines TS proposal described in [N4680](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4680.pdf).
+The 'cppcoro' library provides a set of general-purpose primitives for making use of the coroutines TS proposal described in [N4723](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/n4723.pdf).
 
 These include:
 * Coroutine Types
